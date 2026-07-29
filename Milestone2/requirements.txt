@@ -1,0 +1,37 @@
+# --- Frontend / UI ---
+streamlit==1.38.0
+streamlit-option-menu==0.3.13
+plotly==5.24.1
+
+# --- Backend / Auth ---
+PyJWT==2.9.0
+bcrypt==4.2.0
+
+# --- Database ---
+# SQLite ships with Python's standard library (sqlite3) — no install needed
+
+# --- ML ---
+scikit-learn==1.5.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# --- LLM Copilot ---
+transformers==4.44.2
+accelerate==0.34.2
+bitsandbytes==0.43.3
+torch==2.4.0
+sentencepiece==0.2.0
+huggingface_hub==0.24.6
+
+# --- Data (Kaggle datasets) ---
+kagglehub==0.3.0
+
+# --- Email / OTP ---
+# smtplib and email.mime ship with Python's standard library — no install needed
+
+# --- Deployment ---
+pyngrok==7.2.0
+
+# --- Secrets / Utilities ---
+python-dotenv==1.0.1
