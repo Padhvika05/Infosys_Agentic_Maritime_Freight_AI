@@ -1,4 +1,4 @@
-## **Intelligent Freight Quote Generation System**
+## **Agentic AI for Maritime Freight Pricing and Route Optimization**
 
 ## **Milestone 2: Full-Stack AI/ML Integration & Advanced Security Engine**
 
