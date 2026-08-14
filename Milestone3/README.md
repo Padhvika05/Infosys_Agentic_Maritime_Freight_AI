@@ -1,4 +1,4 @@
-# 🚚 Intelligent Freight Quote Generation System (IFQGS)
+# 🚚 Agentic AI for Maritime Freight Pricing and Route Optimization
 
 > **Infosys Springboard Internship 7.0 – AI Internship Project**  
 > **Domain:** Artificial Intelligence | Machine Learning | Large Language Models | Retrieval-Augmented Generation (RAG)
