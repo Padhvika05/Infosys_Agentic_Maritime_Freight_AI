@@ -87,32 +87,32 @@ Screenshots are stored in the screenshots/ folder inside this same directory.
 
 ## Login Page
 
-![alt text](login.jpeg)
+<img width="1600" height="752" alt="login" src="https://github.com/user-attachments/assets/77dd0067-2fad-4c5f-a216-a419b93628f1" />
 
 ## Signup Page
 
-![alt text](signup.jpeg)
+<img width="1600" height="756" alt="signup" src="https://github.com/user-attachments/assets/52640982-dce0-4b8f-ba33-2b40f952fab8" />
 
 ## Forgot Password — Security Question Page
 
-![alt text](forgot_security_question.jpeg)
+<img width="1600" height="766" alt="forgot_security_question" src="https://github.com/user-attachments/assets/7ccd6150-97cc-42a5-82ca-9e244b348daa" />
 
 ## Forgot Password — OTP Page
 
-![alt text](forgot_otp.jpeg)
+<img width="1600" height="748" alt="forgot_otp" src="https://github.com/user-attachments/assets/db22fe32-6d30-402e-8e99-30c0d99d182e" />
 
 ## OTP Email Received Page
 
-![alt text](otp_email.jpeg)
+<img width="1592" height="697" alt="otp_email" src="https://github.com/user-attachments/assets/da4d040a-8a73-4fe3-a486-c9cae00c2e58" />
 
 ## User Dashboard Page
 
-![alt text](user_dashboard.jpeg)
+<img width="1600" height="757" alt="user_dashboard" src="https://github.com/user-attachments/assets/14a73d6e-f7d2-4881-973e-5e6458c00533" />
 
 ## Admin Dashboard Page
 
-![alt text](admin_dashboard.jpeg)
+<img width="1600" height="755" alt="admin_dashboard" src="https://github.com/user-attachments/assets/239cacb5-4258-4b89-af8d-4232082449df" />
 
 ## Forgot Password Page
 
-![alt text](forgot_password.jpeg)
+<img width="1600" height="752" alt="forgot_password" src="https://github.com/user-attachments/assets/0b0d7e04-bc8c-4853-80b9-e09a4531c5ee" />
