@@ -27,15 +27,13 @@ The whole thing runs inside a single Google Colab notebook. **Streamlit** powers
 
 ## **Tech Stack** 
 
-**Layer** 
-
-## **Tools Used** 
-
-**Frontend / UI** Streamlit, streamlit-option-menu, Plotly 
-
-**Backend / Auth** PyJWT, bcrypt 
-
-**Database** SQLite **Email / OTP** smtplib, email.mime, email-validator **Deployment** pyngrok (public tunnel from Colab) **Secrets** Google Colab Secrets (userdata) 
+|**Layer**|**Tools Used**|
+|**Frontend / UI**|Streamlit, streamlit-option-menu, Plotly|
+|**Backend / Auth**|PyJWT, bcrypt| 
+|**Database**|SQLite|
+|**Email / OTP**|smtplib, email.mime, email-validator| 
+|**Deployment**|pyngrok (public tunnel from Colab)|
+|**Secrets**|Google Colab Secrets (userdata)|
 
 **Security note:** Passwords and security answers are hashed with **bcrypt** before ever touching the database. Sensitive values — JWT secret, ngrok token, email credentials — are stored in **Colab Secrets** , never hard-coded in the notebook. 
 
