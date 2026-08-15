@@ -8,8 +8,6 @@ The whole thing runs inside a single Google Colab notebook. **Streamlit** powers
 
 ## **Features** 
 
-|**Features**||
-|---|---|
 |**Feature**|**What it does**|
 |**Login**|Validates email + password, shows one generic error on failure — never<br>reveals which field was wrong|
 |**Signup**|Collects username, email, password, confirm password, security question &<br>answer — enforces uniqueness on username/email|
@@ -26,7 +24,7 @@ The whole thing runs inside a single Google Colab notebook. **Streamlit** powers
 
 
 ## **Tech Stack** 
-
+|---|---|
 |**Layer**|**Tools Used**|
 |**Frontend / UI**|Streamlit, streamlit-option-menu, Plotly|
 |**Backend / Auth**|PyJWT, bcrypt| 
