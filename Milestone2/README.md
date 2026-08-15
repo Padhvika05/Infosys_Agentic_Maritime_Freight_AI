@@ -186,3 +186,31 @@ Screenshots are stored in the `screenshots/` folder inside this same directory.
 |Admin Panel — Add / Delete / Unlock User|screenshots/admin_user_lifecycle.jpeg|
 |Triggered Lockout Message|screenshots/lockout_message.jpeg|
 |OTP Resend Cooldown Message|screenshots/otp_cooldown.jpeg|
+
+## **Home Page**
+
+<img width="1600" height="757" alt="home" src="https://github.com/user-attachments/assets/75726f3b-c403-4e27-8cfa-f3886e9ee828" />
+
+## **AI Copilot (prompt + response)**
+
+<img width="1600" height="768" alt="ai_copilot" src="https://github.com/user-attachments/assets/166ef148-c97a-49d3-9af1-10479b3b70a7" />
+
+## **ML Pricing Calculator**
+
+<img width="1600" height="758" alt="ml_pricing_calculator" src="https://github.com/user-attachments/assets/142affb5-71be-47a2-a286-bff459616f44" />
+
+## **Admin Panel — ML Model Card**
+
+<img width="1600" height="758" alt="ml_model_card" src="https://github.com/user-attachments/assets/da5c2264-ecff-41bd-8512-08986e820958" />
+
+## **Admin Panel — Add / Delete / Unlock User**
+
+<img width="1600" height="758" alt="admin_user_lifecycle" src="https://github.com/user-attachments/assets/8239ac9e-6860-4669-96ef-e5065ee84b08" />
+
+## **Triggered Lockout Message**
+
+<img width="1446" height="792" alt="lockout_message" src="https://github.com/user-attachments/assets/acdbbb04-85f8-406a-9db9-8d9eca70978a" />
+
+## **OTP Resend Cooldown Message**
+
+<img width="1127" height="792" alt="otp_cooldown" src="https://github.com/user-attachments/assets/3710b330-3ac5-4086-a9e2-37e7c4505f4e" />
